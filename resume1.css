@@ -3,4 +3,9 @@ body{
   margin-top:0%;
   margin-left:20%;
   Margin-right:20%;
+  border-style:double;
+  border-width:medium;
+}
+a{
+  color:black;
 }
