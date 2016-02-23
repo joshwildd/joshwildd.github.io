@@ -1,7 +1,10 @@
 body {
-  background:#cc3300;
+  background:#004d80;
+  color:white;
+  border-style:double;
+  border-width:medium;
+  margin-bottom:120%
 }
 img {
-  middle;
-  class="animate-fading"
+  middle; 
 }
